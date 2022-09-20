@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Non-seasonal differences needed for stationarity: 1
+
+Variable: abev3
+ADF Test: -5.014255
+P-value: 0.000194
+Lags: 8
+Observations: 135
+Critical values:
+  1%: -4.027444
+  5%: -3.443526
+  10%: -3.146427
+--------------------------------------------------

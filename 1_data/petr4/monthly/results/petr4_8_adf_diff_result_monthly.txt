@@ -1,0 +1,15 @@
+--------------------------------------------------
+ADF Results:
+
+Non-seasonal differences needed for stationarity: 1
+
+Variable: petr4
+ADF Test: -7.644233
+P-value: 0.000000
+Lags: 1
+Observations: 82
+Critical values:
+  1%: -4.073645
+  5%: -3.465458
+  10%: -3.159206
+--------------------------------------------------

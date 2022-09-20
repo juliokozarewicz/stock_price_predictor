@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: petr4 (level)
+Mean: 20.04
+Median: 20.43
+Sample std: 7.89
+Variance: 62.21
+Lowest: 4.20
+Highest: 37.23
+--------------------------------------------------

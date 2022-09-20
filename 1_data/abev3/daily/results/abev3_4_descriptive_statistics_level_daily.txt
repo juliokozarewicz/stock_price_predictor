@@ -1,0 +1,11 @@
+--------------------------------------------------
+Descriptive analysis:
+
+Variable: abev3 (level)
+Mean: 15.86
+Median: 15.61
+Sample std: 2.12
+Variance: 4.48
+Lowest: 11.03
+Highest: 20.63
+--------------------------------------------------
