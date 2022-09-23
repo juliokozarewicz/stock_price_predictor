@@ -11,11 +11,13 @@ In statistics, economics, applied mathematics, and signal processing, a time ser
 
 ## Examples of results obtained:
 
-PETRÓLEO BRASILEIRO  S.A(PETR4)
+PETRÓLEO BRASILEIRO  S.A (PETR4)
+
+Time series with moving averages (daily data)
 
 <p align="center">
 	<br />
- 	<img src="/1_results/3_hist_loan_amnt.jpg" width="600" />
+ 	<img src="/1_data/petr4/daily/results/petr4_1.1_moving_average_daily.jpg" width="600" />
 	<br />
 	<br />
 </p>
