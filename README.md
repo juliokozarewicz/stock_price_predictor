@@ -1,4 +1,4 @@
-# Monthly and daily stock price predictor (time series)
+# MONTHLY AND DAILY STOCK PRICE PREDICTOR (TIME SERIES)
 In statistics, economics, applied mathematics, and signal processing, a time series is a collection of observations sequentially over time. In linear series analysis models with cross-section data, in time series the order of the data. A very important characteristic of this type of data is that the neighborhoods are dependent and the interest is analyzed and model this dependence. Time series exist in the most varied areas of application, such as: finance, marketing, economics, insurance, demography, social sciences, meteorology, energy, epidemiology, etc.
 
 ## About the stock price predictor:
@@ -14,10 +14,17 @@ In statistics, economics, applied mathematics, and signal processing, a time ser
 PETRÓLEO BRASILEIRO  S.A (PETR4)
 
 Time series with moving averages (daily data)
-
 <p align="center">
 	<br />
- 	<img src="/1_data/petr4/daily/results/petr4_1.1_moving_average_daily.jpg" width="600" />
+ 	<img src="/1_data/petr4/daily/results/petr4_1.1_moving_average_daily.jpg" width="800" />
+	<br />
+	<br />
+</p>
+
+Forecast (daily data)
+<p align="center">
+	<br />
+ 	<img src="/1_data/petr4/daily/results/petr4_13_observed_fitted_predict_daily.jpg" width="800" />
 	<br />
 	<br />
 </p>
