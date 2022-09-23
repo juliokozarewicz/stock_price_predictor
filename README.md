@@ -11,9 +11,9 @@ In statistics, economics, applied mathematics, and signal processing, a time ser
 
 ## Examples of results:
 
-** PETRÓLEO BRASILEIRO  S.A (PETR4) **
+**PETRÓLEO BRASILEIRO  S.A (PETR4)**
 
-Time series with moving averages
+
 <p align="center">
 	<br />
  	<img src="/1_data/petr4/daily/results/petr4_1.1_moving_average_daily.jpg" width="900" />
@@ -21,7 +21,7 @@ Time series with moving averages
 	<br />
 </p>
 
-Forecast
+
 <p align="center">
 	<br />
  	<img src="/1_data/petr4/daily/results/petr4_13_observed_fitted_predict_daily.jpg" width="900" />
