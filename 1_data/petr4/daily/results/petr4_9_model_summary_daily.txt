@@ -2,8 +2,8 @@
 ==============================================================================================
 Dep. Variable:                                  close   No. Observations:                 1906
 Model:             SARIMAX(3, 1, 4)x(1, 1, [1, 2], 5)   Log Likelihood               -1964.824
-Date:                                Mon, 19 Sep 2022   AIC                           3957.647
-Time:                                        10:49:18   BIC                           4035.342
+Date:                                Tue, 20 Sep 2022   AIC                           3957.647
+Time:                                        11:15:32   BIC                           4035.342
 Sample:                                             0   HQIC                          3986.249
                                                - 1906                                         
 Covariance Type:                                  opg                                         

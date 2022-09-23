@@ -127,5 +127,5 @@ tickers_dict = {
 # --------------------------------------------------------------------------
 
 # x13 arima path
-#path_x13_arima = "C:/Program Files (x86)/x12arima"
+path_x13_arima = "C:/Program Files (x86)/x12arima"
 #path_x13_arima = "/home/x13as/"

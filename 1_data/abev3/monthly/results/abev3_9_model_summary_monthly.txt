@@ -2,8 +2,8 @@
 ===============================================================================================
 Dep. Variable:                                   abev3   No. Observations:                  144
 Model:             SARIMAX(3, 1, 9)x(2, 1, [1, 2], 12)   Log Likelihood                -177.088
-Date:                                 Mon, 19 Sep 2022   AIC                            398.175
-Time:                                         10:48:12   BIC                            461.429
+Date:                                 Tue, 20 Sep 2022   AIC                            398.175
+Time:                                         11:14:21   BIC                            461.429
 Sample:                                     01-01-2010   HQIC                           423.878
                                           - 12-01-2021                                         
 Covariance Type:                                   opg                                         
