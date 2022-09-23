@@ -2,8 +2,8 @@
 ===============================================================================================
 Dep. Variable:                                   petr4   No. Observations:                   84
 Model:             SARIMAX(3, 1, 1)x(5, 0, [1, 2], 12)   Log Likelihood                -188.509
-Date:                                 Tue, 20 Sep 2022   AIC                            405.017
-Time:                                         11:15:50   BIC                            438.881
+Date:                                 Fri, 23 Sep 2022   AIC                            405.017
+Time:                                         10:48:59   BIC                            438.881
 Sample:                                     01-01-2015   HQIC                           418.622
                                           - 12-01-2021                                         
 Covariance Type:                                   opg                                         
